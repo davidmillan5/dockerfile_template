@@ -44,5 +44,3 @@ app.post('/store-goal', (req, res) => {
 });
 
 app.listen(80);
-
-//Test
